@@ -29,7 +29,7 @@ void drawRef() {
   textAlign(CENTER);
   text("The history of Computers goes from the first computer \n invented in 1943 taking up 1800 sq ft up to modern \n computers able to be smaller than your hand!", 450, 56); 
   textSize(13);
-  text("By: Bella Grow", 450, 113);
+  text("By: XXXXXXXX", 450, 113);
   line(50, 250, 850, 250);
 }
 void histEvent(int x, int y, int w, int xx, int yy, int ww, String title, String desc, boolean top) {
